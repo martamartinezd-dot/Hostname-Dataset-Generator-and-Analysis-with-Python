@@ -65,7 +65,7 @@ All visualizations are generated using Matplotlib and properly formatted for cla
 - Python  
 - Pandas  
 - Matplotlib  
-- Jupyter Notebook / Google Collab  
+- Jupyter Notebook / Google Colab  
 
 ---
 
